@@ -10,7 +10,7 @@ Es un formulario para registrarse y que almacene los nuevos usuarios para no rep
 
 ## Instalacion 
 
-> pip install django-crispy-forms
+"pip install django-crispy-forms"
 
 
 ## Aplicacion en funcionamiento
