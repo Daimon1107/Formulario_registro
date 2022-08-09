@@ -3,9 +3,16 @@
 
 Es un formulario para registrarse y que almacene los nuevos usuarios para no repetir username y futuros login
 
-# Dependencias 
+## Dependencias 
 
 - Uso de template de bootstrap como base
 - Crispy forms para el formulario
 
-# Aplicacion en funcionamiento
+## Instalacion 
+
+- pip install django-crispy-forms
+
+
+## Aplicacion en funcionamiento
+
+
