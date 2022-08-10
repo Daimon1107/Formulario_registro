@@ -16,7 +16,9 @@ Es un formulario para registrarse y que almacene los nuevos usuarios para no rep
 ## Registro en funcionamiento 
 
 
-https://user-images.githubusercontent.com/99926845/183774951-af0cffd5-0ee0-4c10-b8ee-df27975d1217.mp4
+https://user-images.githubusercontent.com/99926845/183928022-77ca3788-2af1-4cca-a9e6-65ca3a81522c.mp4
+
+
 
 
 
